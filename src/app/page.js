@@ -1,5 +1,5 @@
 import Image from "next/image";
-import img1 from "@/assets/images/1.png";
+import img1 from "@/assets/images/1.webp";
 export default function Home() {
   return (
     <>
